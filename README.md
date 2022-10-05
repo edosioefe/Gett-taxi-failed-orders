@@ -10,12 +10,19 @@ I'll be completing the following tasks from the dataset:
 
 Data variables:
 order_datetime - time of the order
+
 origin_longitude - longitude of the order
+
 origin_latitude - latitude of the order
+
 m_order_eta - time before order arrival
+
 order_gk - order number
+
 order_status_key - status, an enumeration consisting of the following mapping: 4 - cancelled by client, 9 - cancelled by system, i.e., a reject
+
 is_driver_assigned_key - whether a driver has been assigned
+
 cancellation_time_in_seconds - how many seconds passed before cancellation
 
 
